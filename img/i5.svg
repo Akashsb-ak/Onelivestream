@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 611.89 522.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e7e4f2;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #837dbb;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" x="0" width="440.61" height="288.09"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Group_2097" data-name="Group 2097">
+      <circle id="Ellipse_46" data-name="Ellipse 46" class="cls-1" cx="392.9" cy="303.97" r="218.99"/>
+      <g id="Group_1475" data-name="Group 1475">
+        <g class="cls-2">
+          <g id="Group_1475-2" data-name="Group 1475-2">
+            <path id="Path_2220" data-name="Path 2220" class="cls-4" d="m420.98,0H19.65C8.08.84-.67,10.84.04,22.42v243.31c-.67,11.56,8.06,21.52,19.61,22.36h401.33c11.57-.8,20.32-10.78,19.61-22.36V22.42c.71-11.58-8.03-21.58-19.61-22.42m-209.99,253.18H64.17v-100.87h146.82v100.87Zm0-121.65H64.17V30.66h146.82v100.87Zm171.14,121.65h-146.89v-100.87h146.89v100.87Zm0-121.65h-146.89V30.66h146.89v100.87Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
