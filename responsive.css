@@ -438,7 +438,13 @@
         color: #e31947 !important;
     }
 }
+@media (min-width: 1000px) and (max-width: 1400px)
+{
+    .email{
+        width: 300px;
+    }
 
+}
 @media (min-width: 1000px) and (max-width: 1500px)
 {
     .mlink{
