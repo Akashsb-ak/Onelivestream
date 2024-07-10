@@ -1,0 +1,447 @@
+@media (max-width: 767px) 
+{
+    .heading h1
+    {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .content p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .typewriter h1 {
+        width: 83%;
+        color: #ecc73c;
+        font-size: 16px;
+        font-weight: 500;
+        overflow: hidden;
+        border-right: .1em solid #ecc73c;
+        white-space: nowrap;
+        margin: 0 auto;
+        letter-spacing: .15em;
+        animation: typing 3.5s steps(30, end), blink-caret .5s step-end infinite;
+    }
+    .banner-btn {
+        font-size: 12px;
+        font-weight: 500;
+        background-color: #e31947;
+        border-radius: 30px 30px 30px 30px;
+        padding: 15px 30px;
+        color: #fff;
+    }
+    .banner{
+        padding-bottom: 80px;
+    }
+    .video {
+        margin-top: -50px;
+    }
+    .video1{
+        margin: 0px;
+    }
+    .brand-text {
+        font-size: 14px;
+    }
+    .slider{
+        margin-top: 75px;
+        margin-bottom: 0px;
+    }
+
+    .slider-img{
+        width: 140px;
+    }
+    .para-heading{
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+    .para-sub{
+        padding: 0px 10px;
+    }
+    .live{
+        margin-top: 75px;
+    }
+    .videoh{
+        font-size: 21px;
+        padding-bottom: 20px;
+    }
+    .video2cont{
+        margin-top: 30px;
+        margin-right: 0px;
+    }
+    .videop{
+        padding-bottom: 20px;
+    }
+    .videob {
+        font-size: 12px;
+        padding: 15px 30px;
+    }
+    .prerecord {
+        margin-top: 75px;
+    }
+    .vid3{
+        margin-top: 30px;
+    }
+    .rtmp {
+        margin-top: 75px;
+    }
+    .video4cont {
+        margin-top: 30px;
+        margin-right: 0px;
+    }
+    .embedded {
+        margin-top: 75px;
+    }
+    .video5{
+        margin-top: 30px;
+    }
+    .hosted {
+        margin-top: 75px;
+    }
+    .video6cont{
+        margin-top: 30px;
+        margin-right: 0px;
+    }
+    .features{
+        margin-top: 75px;
+    }
+    .featureh{
+        font-size: 24px;
+        margin-top: 30px;
+        padding-bottom: 20px;
+        line-height: 35px;
+    }
+    .featurem{
+        margin-top: 0px;
+    }
+    .featuremh{
+        margin-top: 20px;
+    }
+    .ad {
+        margin-top: 75px;
+    }
+    .adh{
+        font-size: 24px;
+        line-height: 36px !important;
+    }
+    .adtext {
+        margin: 0px;
+    }
+    .btr{
+        font-size: 12px;
+        padding: 15px 20px;
+    }
+    .btl{
+        font-size: 12px;
+        padding: 15px 20px;
+    }
+    .testimonial{
+        margin-top: 75px;
+    }
+    .th h2{
+        font-size: 24px;
+    }
+    .livetext h2{
+        font-size: 24px;
+        line-height: 35px;
+        padding-bottom: 20px;
+    }
+    .livetext p{
+        padding-bottom: 20px;
+    }
+    .pl{
+        margin-top: 20px;
+    }
+    .liveimg {
+        
+        height: auto  !important;
+        margin-top: 10px;
+        
+    }
+    .faq{
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    .faq .heading{
+        font-size: 24px;
+    }
+    .faqq{
+        margin: 0px;
+    }
+    .email{
+        width: 65%;
+        margin-bottom: 30px;
+        margin-top: 30px;
+    }
+    .newsletter{
+        padding: 0px;
+    }
+    ::placeholder{
+        font-size: 14px;
+      }
+    .submit{
+        font-size: 12px;
+        padding: 15px 20px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    .producth{
+        padding-top: 50px;
+    }
+    .producth h1
+    {
+        font-size: 30px;
+        padding-top: 30px;
+    }
+    .producth .red
+    {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .pbanner{
+        padding-bottom: 150px;
+    }
+    .pcontent {
+       padding: 0px;
+        margin: 0% 5%;
+    }
+    .pcontent p {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 25px;
+        color: #fff;
+    }
+    .streamt h2{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .streamd br{
+        display: none;
+    }
+    .stream1{
+        margin-top: 50px;
+    }
+    .shows h5{
+        padding-bottom: 10px;
+    }
+    .shows .media
+    {
+        margin-top: 15px;
+    }
+    .streamd{
+        padding-bottom: 13px;
+        margin-bottom: 0px;
+    }
+    .streamtext br{
+        display: none;
+    }
+    #p3{
+        margin-top: 1px;
+    }
+
+    #vertical{
+        margin-top: 40px;
+    }
+    .streamt h2 br{
+        display: none;
+    }
+    .expri{
+        margin-top: 50px;
+    }
+    .experih{
+        margin: 0px;
+    }
+    .experih h2 {
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 15px;
+    }
+    .expt p {
+        margin: 0px 20px;
+    }
+   
+    .exp2{
+        margin-top: 30px;
+    }
+    .icons{
+        padding: 50px 0px;
+        margin-top: 70px;
+    }
+    .icon1 img{
+        width: 50px;
+    }
+    .icon1{
+        margin-top: 30px !important;
+    }
+    #down{
+        margin-top: 0px;
+    }
+    .faq1 {
+        margin-top: 50px;
+        margin-bottom: 70px;
+    }
+
+
+    /*streamimg*/
+    .sbanner{
+        padding-bottom: 70px;
+    }
+    .m h1{
+        font-size: 24px;
+        line-height: 35px;
+        padding-top: 30px;
+        padding-bottom: 0px;
+    }
+    .m span{
+        font-size: 35px;
+    }
+    .m .bannerbtn{
+        margin-top: 40px;
+    }
+    .m .bannerbtn p{
+        margin-top: 12px;
+        margin-bottom: 0px;
+    }
+    #qk{
+        padding-left: 12px;
+      }
+    .navm{
+        display: none;
+    }
+    .streamtm1{
+        margin-top: 50px;
+    }
+    .streamtm1 h2 {
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 50px;
+    }
+    .streamtm2 h2{
+        font-size: 30px;
+    }
+    .streamtm6{
+        margin-top: 60px;
+    }
+    .streamtm6 h2{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .pm6 br{
+        display: none;
+    }
+    .m7a {
+        margin-top: 20px;
+    }
+    .exprim8{
+        margin-top: 50px;
+    }
+    .testict h2{
+        font-size: 30px;
+    }
+    .blsider{
+        margin-top: 50px;
+    }
+    .card-body h6 br{
+        display: none;
+    }
+    .elementb{
+        padding-top: 150px;
+    }
+    .blbanner{
+        padding-bottom: 50px;
+    }
+    .blcontent p{
+        padding-top: 10px;
+    }
+    .loginsli{
+        display: none;
+    }
+    .imglgl img{
+        height: 35px !important;
+    }
+    .imglgl {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+    .loginform .account p {
+        padding: 25px 0px 10px;
+        margin: 0px;
+        font-size: 16px;
+        color: rgb(254, 255, 255);
+        white-space: nowrap;
+        font-weight: 400;
+    }
+    .iconsl i {
+        margin: 0px 10px;
+        font-size: 16px;
+        border: 1px solid rgb(40, 55, 79);
+        padding: 15px;
+        border-radius: 50%;
+    }
+    .signupl .sl {
+        width: 10%;
+        height: 1.6px;
+        border-radius: 2px;
+        background: linear-gradient(rgb(27, 38, 59) 0%, rgb(40, 55, 79) 49%, rgb(27, 38, 59) 100%);
+        margin: 0px 1vh;
+        display: inline-block;
+        padding: 0px 10px;
+        margin-top: -5px;
+    }
+    .signupl p{
+        font-size: 14px;
+        font-weight: normal;
+    }
+    .lform{
+        padding: 0px 30px;
+    }
+    .login{
+        overflow: hidden;
+    }
+    .abt{
+        padding: 30px;
+    }
+    .vision{
+        margin-top: 20px;
+    }
+    .mis{
+        margin-top: 30px;
+    }
+    .testi{
+        margin-top: 50px;
+    }
+    .about{
+        margin-top: 50px;
+    }
+    .aboutus h2 {
+        color: #fff;
+        font-size: 30px;
+        font-weight: 600;
+        margin: 20px 0px;
+        line-height: 40px;
+    }
+    .swiper.abts{
+        margin-bottom: -50px !important;
+    }
+    .contactp{
+        padding: 15px;
+    }
+    .quote{
+        margin-top: 40px;
+    }
+    .address h2{
+        font-size: 30px;
+    }
+    .nav-link{
+        color: #000 !important;
+    }
+    #nav-item a:hover{
+        color: #e31947 !important;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1500px)
+{
+    .mlink{
+        margin: 0px 140px;
+    }
+}
